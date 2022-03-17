@@ -1,0 +1,24 @@
+[
+    {
+        "name": "alpro yoghurt natur ohne zucker",
+        "source": "https://www.alpro.com/de/produkte/soja-joghurtalternativen/soja-joghurtalternativen/natur-ohne-zucker/",
+        "calories": 42,
+        "macros": {
+            "fat": {
+                "total": 2.3,
+                "saturated": 0.4
+            },
+            "carbs": {
+                "total": 0.9,
+                "fiber": 0.9
+            },
+            "protein": {
+                "total": 4
+            }
+        },
+        "minerals": {
+            "sodium": 240,
+            "calcium": 120
+        }
+    }
+]

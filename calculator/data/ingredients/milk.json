@@ -1,0 +1,19 @@
+[
+    {
+        "name": "alpro mandelmich onhe zucker",
+        "source": "https://www.alpro.com/de/produkte/drinks/mandeldrinks/mandeldrink-ohne-zucker/",
+        "calories": 13,
+        "macros": {
+            "fat": {
+                "total": 1.1
+            },
+            "protein": {
+                "total": 0.4
+            }
+        },
+        "minerals": {
+            "sodium": 140,
+            "calcium": 120
+        }
+    }
+]

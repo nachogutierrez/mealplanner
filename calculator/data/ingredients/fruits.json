@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Blueberries, raw",
+        "source": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171711/nutrients",
+        "calories": 57,
+        "macros": {
+            "fat": {
+                "total": 0.33
+            },
+            "carbs": {
+                "total": 14.5,
+                "fiber": 2.4
+            },
+            "protein": {
+                "total": 0.74
+            }
+        },
+        "minerals": {
+            "sodium": 1,
+            "potassium": 77,
+            "calcium": 6
+        }
+    },
+    {
+        "name": "Strawberries, raw",
+        "source": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167762/nutrients",
+        "calories": 32,
+        "macros": {
+            "fat": {
+                "total": 0.3
+            },
+            "carbs": {
+                "total": 7.68,
+                "fiber": 2
+            },
+            "protein": {
+                "total": 0.67
+            }
+        },
+        "minerals": {
+            "sodium": 1,
+            "calcium": 16,
+            "potassium": 153
+        }
+    }
+]

@@ -1,0 +1,7 @@
+.ValueField {
+    display: flex;
+    flex-direction: column;
+    background: red;
+    padding: 16px;
+    max-width: 300px;
+}

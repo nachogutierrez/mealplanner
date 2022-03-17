@@ -1,0 +1,21 @@
+{
+    "calories": "kcal",
+    "macros": {
+        "fat": {
+            "total": "grams",
+            "saturated": "grams"
+        },
+        "carbs": {
+            "total": "grams",
+            "fiber": "grams"
+        },
+        "protein": {
+            "total": "grams"
+        }
+    },
+    "minerals": {
+        "sodium": "milligrams",
+        "calcium": "milligrams",
+        "potassium": "milligrams"
+    }
+}

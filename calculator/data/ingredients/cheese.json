@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Bergader Bergbauern Kaese wuerzig-nussig",
+        "source": "https://www.bergader.de/produkte/bergbauern-kaese/bergbauern-kaese-wuerzig-nussig#head",
+        "calories": 362,
+        "macros": {
+            "fat": {
+                "total": 29,
+                "saturated": 18.7
+            },
+            "protein": {
+                "total": 25.3
+            }
+        },
+        "minerals": {
+            "sodium": 1200,
+            "calcium": 950
+        }
+    }
+]
