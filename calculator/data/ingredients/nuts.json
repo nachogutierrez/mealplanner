@@ -1,0 +1,46 @@
+[
+    {
+        "name": "bio asia organic peanut butter",
+        "source": "https://asia4friends.de/bio-erdnussbutter-bioasia-500g",
+        "price": 1,
+        "calories": 613,
+        "macros": {
+            "fat": {
+                "total": 49,
+                "saturated": 7.1
+            },
+            "carbs": {
+                "total": 18,
+                "fiber": 6
+            },
+            "protein": {
+                "total": 28
+            }
+        },
+        "minerals": {
+            "sodium": 10
+        }
+    },
+    {
+        "name": "seeberger macadamia nuts",
+        "source": "https://shop.rewe.de/p/seeberger-macadamia-nusskerne-125g/5937086",
+        "price": 4.39,
+        "calories": 756,
+        "macros": {
+            "fat": {
+                "total": 76,
+                "saturated": 13
+            },
+            "carbs": {
+                "total": 13.8,
+                "fiber": 8.6
+            },
+            "protein": {
+                "total": 9.3
+            }
+        },
+        "minerals": {
+            "sodium": 800
+        }
+    }
+]

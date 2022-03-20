@@ -1,0 +1,23 @@
+[
+    {
+        "name": "lindt 100 cacao",
+        "source": "https://www.lindt.de/excellence-100-50g",
+        "price": 4.58,
+        "calories": 618,
+        "macros": {
+            "fat": {
+                "total": 55,
+                "saturated": 33
+            },
+            "carbs": {
+                "total": 8.8
+            },
+            "protein": {
+                "total": 12.1
+            }
+        },
+        "minerals": {
+            "sodium": 50
+        }
+    }
+]

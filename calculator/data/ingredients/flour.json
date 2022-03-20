@@ -1,0 +1,25 @@
+[
+    {
+        "name": "clasen bio mandelmehl",
+        "source": "https://www.lieferello.de/8Pasta-Reis-Co/Clasen-Bio-Mandelmehl-300g.html",
+        "price": 3,
+        "calories": 380,
+        "macros": {
+            "fat": {
+                "total": 12,
+                "saturated": 1.7
+            },
+            "carbs": {
+                "total": 23,
+                "fiber": 16
+            },
+            "protein": {
+                "total": 53
+            }
+        },
+        "minerals": {
+            "sodium": 50,
+            "calcium": 553
+        }
+    }
+]

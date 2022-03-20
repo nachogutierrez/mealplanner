@@ -1,0 +1,23 @@
+[
+    {
+        "name": "meggle feine butter",
+        "source": "https://www.meggle.de/produkte/feine-butter-co/feine-butter",
+        "price": 0.64,
+        "calories": 743,
+        "macros": {
+            "fat": {
+                "total": 82,
+                "saturated": 53
+            },
+            "carbs": {
+                "total": 0.6
+            },
+            "protein": {
+                "total": 0.7
+            }
+        },
+        "minerals": {
+            "sodium": 10
+        }
+    }
+]

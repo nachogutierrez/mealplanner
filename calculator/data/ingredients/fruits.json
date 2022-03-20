@@ -42,5 +42,25 @@
             "calcium": 16,
             "potassium": 153
         }
+    },
+    {
+        "name": "Lemon juice, raw",
+        "source": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167747/nutrients",
+        "calories": 22,
+        "macros": {
+            "fat": {
+                "total": 0.24
+            },
+            "carbs": {
+                "total": 6.9,
+                "fiber": 0.3
+            },
+            "protein": {
+                "total": 0.35
+            }
+        },
+        "minerals": {
+            "potassium": 103
+        }
     }
 ]

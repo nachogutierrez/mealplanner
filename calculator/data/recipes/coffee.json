@@ -1,0 +1,26 @@
+[
+    {
+        "name": "mandel bullet proof coffee",
+        "servings": 1,
+        "ingredients": [
+            ["meggle feine butter", 10],
+            ["pure c8 mct oil", 5],
+            ["alpro mandelmich onhe zucker", 125]
+        ]
+    },
+    {
+        "name": "mandel cream coffee",
+        "servings": 1,
+        "ingredients": [
+            ["weihenstephan schlagrahm", 15],
+            ["alpro mandelmich onhe zucker", 125]
+        ]
+    },
+    {
+        "name": "mandel milk coffee",
+        "servings": 1,
+        "ingredients": [
+            ["alpro mandelmich onhe zucker", 125]
+        ]
+    }
+]

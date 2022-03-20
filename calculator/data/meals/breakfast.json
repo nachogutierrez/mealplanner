@@ -1,0 +1,62 @@
+[
+    {
+        "name": "breakfast juli 1",
+        "ingredients": [
+            ["Egg, whole, cooked, hard-boiled", 110],
+            ["alpro yoghurt natur ohne zucker", 100],
+            ["verival leinsaat geschrotet", 3],
+            ["Strawberries, raw", 50],
+            ["Bergader Bergbauern Kaese wuerzig-nussig", 25],
+            ["alpro mandelmich onhe zucker", 150],
+            ["pure c8 mct oil", 5]
+        ],
+        "recipes": []
+    },
+    {
+        "name": "breakfast juli 2",
+        "ingredients": [
+            ["Egg, whole, cooked, hard-boiled", 180],
+            ["alpro yoghurt natur ohne zucker", 100],
+            ["verival leinsaat geschrotet", 3],
+            ["Strawberries, raw", 50],
+            ["alpro mandelmich onhe zucker", 150],
+            ["pure c8 mct oil", 5]
+        ],
+        "recipes": []
+    },
+    {
+        "name": "breakfast nacho cream coffee",
+        "ingredients": [
+            ["Egg, whole, cooked, hard-boiled", 180],
+            ["alpro yoghurt natur ohne zucker", 100],
+            ["Strawberries, raw", 40],
+            ["alpro mandelmich onhe zucker", 150],
+            ["weihenstephan schlagrahm", 15]
+        ],
+        "recipes": []
+    },
+    {
+        "name": "breakfast nacho bulletproof coffee",
+        "ingredients": [
+            ["Egg, whole, cooked, hard-boiled", 110],
+            ["kaufland bio bacon", 15],
+            ["alpro yoghurt natur ohne zucker", 100]
+        ],
+        "recipes": [
+            ["mandel bullet proof coffee", 1]
+        ]
+    },
+    {
+        "name": "breakfast nacho peanut butter fudge",
+        "ingredients": [
+            ["Egg, whole, cooked, hard-boiled", 55],
+            ["alpro yoghurt natur ohne zucker", 100],
+            ["verival leinsaat geschrotet", 9],
+            ["seeberger macadamia nuts", 7]
+        ],
+        "recipes": [
+            ["peanut butter fudge", 2],
+            ["mandel cream coffee", 1]
+        ]
+    }
+]

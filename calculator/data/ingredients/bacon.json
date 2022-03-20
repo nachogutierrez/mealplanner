@@ -1,0 +1,22 @@
+[
+    {
+        "name": "kaufland bio bacon",
+        "price": 1,
+        "calories": 344,
+        "macros": {
+            "fat": {
+                "total": 32,
+                "saturated": 13
+            },
+            "carbs": {
+                "total": 1
+            },
+            "protein": {
+                "total": 13
+            }
+        },
+        "minerals": {
+            "sodium": 2300
+        }
+    }
+]

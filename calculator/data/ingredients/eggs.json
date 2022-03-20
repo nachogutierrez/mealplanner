@@ -2,6 +2,7 @@
     {
         "name": "Egg, whole, cooked, hard-boiled",
         "source": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173424/nutrients",
+        "price": 0.73,
         "calories": 155,
         "macros": {
             "fat": {
@@ -17,7 +18,54 @@
         },
         "minerals": {
             "sodium": 124,
-            "potassium": 126
+            "potassium": 126,
+            "calcium": 50
+        }
+    },
+    {
+        "name": "Egg, whole, raw, fresh",
+        "source": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171287/nutrients",
+        "price": 0.73,
+        "calories": 143,
+        "macros": {
+            "fat": {
+                "total": 9.51,
+                "saturated": 3.13
+            },
+            "carbs": {
+                "total": 0.72
+            },
+            "protein": {
+                "total": 12.6
+            }
+        },
+        "minerals": {
+            "sodium": 142,
+            "potassium": 138,
+            "calcium": 56
+        }
+    },
+    {
+        "name": "Egg, yolk, raw, fresh",
+        "source": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172184/nutrients",
+        "price": 2.17,
+        "calories": 322,
+        "macros": {
+            "fat": {
+                "total": 26.5,
+                "saturated": 9.55
+            },
+            "carbs": {
+                "total": 3.59
+            },
+            "protein": {
+                "total": 15.9
+            }
+        },
+        "minerals": {
+            "sodium": 48,
+            "potassium": 109,
+            "calcium": 129
         }
     }
 ]

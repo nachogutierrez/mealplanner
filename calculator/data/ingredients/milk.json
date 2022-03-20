@@ -2,6 +2,7 @@
     {
         "name": "alpro mandelmich onhe zucker",
         "source": "https://www.alpro.com/de/produkte/drinks/mandeldrinks/mandeldrink-ohne-zucker/",
+        "price": 0.279,
         "calories": 13,
         "macros": {
             "fat": {

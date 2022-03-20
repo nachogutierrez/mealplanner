@@ -1,0 +1,25 @@
+[
+    {
+        "name": "peanut butter fudge",
+        "servings": 30,
+        "ingredients": [
+            ["bio asia organic peanut butter", 185],
+            ["meggle feine butter", 81],
+            ["sussli erythrit", 200]
+        ]
+    },
+    {
+        "name": "keto lemon bars",
+        "servings": 10,
+        "ingredients": [
+            ["meggle feine butter", 42],
+            ["Egg, yolk, raw, fresh", 17],
+            ["clasen bio mandelmehl", 100],
+            ["sussli erythrit", 30],
+            ["Egg, whole, raw, fresh", 165],
+            ["Lemon juice, raw", 85],
+            ["sussli erythrit", 100],
+            ["clasen bio mandelmehl", 100]
+        ]
+    }
+]

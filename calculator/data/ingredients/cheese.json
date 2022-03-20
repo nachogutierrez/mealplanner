@@ -16,5 +16,25 @@
             "sodium": 1200,
             "calcium": 950
         }
+    },
+    {
+        "name": "rewe parmigiano reggiano dop",
+        "source": "https://shop.rewe.de/p/rewe-feine-welt-parmigiano-reggiano-150g/2540069",
+        "comments": ["rewe product, source does not contain nutritional information"],
+        "price": 2.66,
+        "calories": 402,
+        "macros": {
+            "fat": {
+                "total": 30,
+                "saturated": 20
+            },
+            "protein": {
+                "total": 32
+            }
+        },
+        "minerals": {
+            "sodium": 1600,
+            "calcium": 1180
+        }
     }
 ]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "weihenstephan schlagrahm",
+        "source": "https://www.molkerei-weihenstephan.de/produkte/sahne/unsere-sahne/schlagrahm-32-fett-klein",
+        "price": 0.758,
+        "calories": 311,
+        "macros": {
+            "fat": {
+                "total": 32,
+                "saturated": 20.4
+            },
+            "carbs": {
+                "total": 3.3
+            },
+            "protein": {
+                "total": 2.5
+            }
+        },
+        "minerals": {
+            "sodium": 80
+        }
+    }
+]

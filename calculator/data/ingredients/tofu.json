@@ -1,0 +1,23 @@
+[
+    {
+        "name": "vantastic biotofu natur",
+        "source": "https://www.vantastic-foods.com/vegane-lebensmittel/grundausstattung/tofu-und-tempeh/vantastic-foods-bio-tofu-natur-200g",
+        "price": 1,
+        "calories": 122,
+        "macros": {
+            "fat": {
+                "total": 7.1,
+                "saturated": 1.2
+            },
+            "carbs": {
+                "total": 0.5
+            },
+            "protein": {
+                "total": 12
+            }
+        },
+        "minerals": {
+            "sodium": 10
+        }
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "pure c8 mct oil",
+        "source": "https://eu.ketosource.co/products/pure-c8-mct-oil",
+        "price": 3.998,
+        "calories": 899,
+        "macros": {
+            "fat": {
+                "total": 100,
+                "saturated": 100
+            }
+        }
+    }
+]
